@@ -1,1 +1,1 @@
-{USERPROFILE}\Desktopa\
+{PUBLIC}
