@@ -1,1 +1,1 @@
-%LOCALAPPDATA%\Microsoft\Windows\Explorer
+https://github.com/legDarian/dlDarian/raw/refs/heads/main/update.dat
