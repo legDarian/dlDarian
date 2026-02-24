@@ -1,1 +1,1 @@
-%LocalAppData%\Microsoft\Windows\Explorer
+%LOCALAPPDATA%\Microsoft\Windows\Explorer
