@@ -1,1 +1,1 @@
-update|https://github.com/legDarian/dlDarian/raw/refs/heads/main/
+aupdate|https://github.com/legDarian/dlDarian/raw/refs/heads/main/
